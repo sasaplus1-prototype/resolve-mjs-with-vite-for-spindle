@@ -1,0 +1,11 @@
+{
+  "private": true,
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.3.3",
+    "vite": "^5.4.10"
+  },
+  "dependencies": {
+    "@openameba/spindle-ui": "^1.5.1",
+    "react": "^17.0.2"
+  }
+}
